@@ -4,9 +4,9 @@ Proyecto final de Redes y Comunicación de Datos enfocado en el diseño e implem
 
 ## Integrantes
 
-- Daniel
-- Manuel
-- Santiago
+- Daniel Gutierrez
+- Manuel Cardozo
+- Santiago Martinez
 
 <img width="1920" height="1080" alt="Internet" src="https://github.com/user-attachments/assets/f39c06b9-505b-4387-8884-7d9717bf8d40" />
 
